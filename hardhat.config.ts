@@ -62,7 +62,7 @@ export default {
   etherscan: {
     // Your API key for Etherscan
     // Obtain one at https://etherscan.io/
-    apiKey: 'XFFSINT75WVN47G4UAWVHKT4N55MQ4QYVZ',
+    apiKey: 'key',
   },
   solidity: {
     compilers: [DEFAULT_COMPILER_SETTINGS],
